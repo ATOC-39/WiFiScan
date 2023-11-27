@@ -4,7 +4,7 @@
  *  E.g. the return value of `encryptionType()` different because more modern encryption is supported.
  */
 #include "WiFi.h"
-//check
+//check7
 void setup()
 {
     Serial.begin(115200);
